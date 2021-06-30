@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csokam
 - 👀 I’m interested in nature, programming & education
-- 🌱 I’m currently learning the Python language
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on [n/a]
 - 📫 You can reach me via pidgeon post by whispering my username to them
 
