@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [n/a]
 - 📫 You can reach me via pidgeon post by whispering my username to them
 
-![Csokam's GitHub stats:](https://github-readme-stats.vercel.app/api?username=csokam&show_icons=true&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=csokam&show_icons=true&theme=gotham)
 
 
 <!---
