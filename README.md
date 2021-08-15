@@ -5,6 +5,13 @@
 - 📫 You can reach me via pidgeon post, just whisper them my username
 
 ![Csokam's GitHub stats:](https://github-readme-stats.vercel.app/api?username=csokam&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csokam&layout=compact&theme=gotham)
+
+<h3>Social</h3>
+Twitter - I don't tweet
+Facebook - I don't use Facebook
+Instagram - Meh
+LinkedIn - No
 
 
 <!---
