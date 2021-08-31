@@ -1,9 +1,9 @@
 <h2>Intro</h2>
 
-- 👋 Hi, I’m @csokam
+- 👋 Hi, I’m Márk
 - 🐍 I’m currently learning Python and its many libraries
 - 👾 I’m interested in nature, programming & education
-- 🍻 I’m looking to collaborate on [n/a]
+- 🍻 I’m looking to collaborate on [n/a] & [tbd]
 - 📫 You can reach me via pidgeon post, just whisper them my username
 
 <h3>Social</h3>
