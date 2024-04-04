@@ -4,7 +4,7 @@
 - 🐍 I’m currently learning Python and its many libraries
 - 👾 I’m interested in nature, programming & education
 - 🍻 I’m looking to collaborate on [n/a] & [tbd]
-- 📫 You can reach me via pidgeon post, just whisper them my username
+- 📫 You can reach me via pidgeon post or just shout
 
 <h3>Social</h3>
 <a href="https://github.com/csokam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a> - I don't tweet <br>
