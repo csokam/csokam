@@ -12,7 +12,7 @@
 <a href="https://github.com/csokam" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white"></a> - Meh <br>
 <a href="https://github.com/csokam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> - No <br>
 <a href="https://www.researchgate.net/profile/Mark-Csoka" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a> - Yes <br>
-<a href="https://github.com/csokam" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@csokam-181717?style=flat-square&logo=GitHub&logoColor=white"></a> - Octocat FTW! <br>
+<a href="https://github.com/csokam" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@csokam-181717?style=flat-square&logo=GitHub&logoColor=white"></a> - Octocat! <br>
 <br>
 
 
